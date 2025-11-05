@@ -3,8 +3,8 @@
 A Python script to analyze and explore music data from Spotify's API. This project creates a .csv file and a .json file with the ID of the artist, name of the artist, ID of the albums, name of the albums and name of the songs of an artist that is introduced by script.
 
 ## 📁 Project Structure
-    ** canciones.py # Main Python script
-    ** README.md # Project documentation
+* canciones.py (the main Python script)
+* README.md (the documentation)
 
 ### ¡Important! Set up Spotify API credentials
 
